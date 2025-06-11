@@ -1,0 +1,157 @@
+header{
+    background-image: url("../image/save1.jpg");
+    background-size:cover ;
+    background-color: rgba(0,0,0,0.4);
+    background-blend-mode: multiply;
+}
+body{
+    margin: 0px;
+      padding: 0px;
+ 
+}
+.log{
+  font-size: 20px;
+  font-weight: bold;
+      font-family: 'Anton', sans-serif;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(0,0,0,0.4);
+    padding: 10px;
+     font-family: 'Roboto', sans-serif;
+  color: white;
+ 
+   
+}
+
+
+
+nav a {
+padding-left:25px;
+  text-decoration: none;
+  color: white;
+}
+
+.text{
+    color: white;
+   font-family: 'Anton', sans-serif;
+  font-weight: bold;
+  text-transform: uppercase; 
+  margin-left: 20px;
+ 
+}
+.text1{
+color: white;
+margin-left: 20px;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+nav .a {
+padding-left: 10px;
+}
+.imagg{
+  padding-top: 35px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+}
+.imagg2{
+  margin-top: 80px;
+  
+  display: flex;
+ justify-content: center;
+  padding-bottom: 15px;
+gap: 30px;
+}
+.one{
+   font-family: 'Anton', sans-serif;
+   padding-left: 10px;
+   
+}
+.de1{
+  padding-left: 50px;
+  padding-right: 10px;
+}
+.imagg2 img{
+  align-items: center;
+  padding-left: 22px;
+}
+.tt{
+  color: gray;
+}
+.ntp{
+  height: 300px;
+  width: 1340px;
+  background-color:#100645;
+}
+.ntp p .se{
+font-family: 'Anton', sans-serif;
+}
+.se{
+ font-family: 'Anton', sans-serif;
+ padding-top: 180px;
+ padding-left: 270px;
+  
+}
+.ntp p{
+  
+  color: white;
+padding-left: 150px;
+  
+}
+.detsect{
+  margin-left: 90px;
+}
+.twosect{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.headi{
+  color:#100645; 
+  padding-top: 60px;
+  font-size:20px;
+  font-weight: bold;
+ 
+}
+.newp{
+  padding-right:280px;
+  color: grey;
+}
+.phitems{
+  margin-top: 40px;
+}
+.newsaved{
+  display: flex;
+  padding-top: 25px; 
+
+}
+.some{
+  padding-left: 20px;
+  font-family: "Bebas Neue", Sans-serif;
+    font-weight: bold;
+    font-size:13px;
+  
+}
+.cbutton{
+  margin-top: 35px;
+  margin-right: 20px;
+  background-color: #100645;
+  font-size: 20px;
+   color: white;
+  padding: 10px 20px;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: 0.3s;
+  
+}
+.cbutton:hover {
+  background-color: rgb(13, 166, 226);
+}
